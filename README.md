@@ -1,1 +1,1 @@
-# ghost-testing
+# Ghost Testing
