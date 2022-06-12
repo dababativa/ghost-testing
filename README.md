@@ -8,6 +8,9 @@ Para poder ejecutar estas pruebas de la mejor manera posible se recomienda cumpl
 - Correr la versión 4.42.0 de Ghost (para esta versión fueron diseñadas las pruebas y es posible que estas no funcionen correctamente en otra versión)
 - Instalar Cypress a nivel global en su máquina
 
+## Estrategia de pruebas
+La estrategia de pruebas diseñada pueder verse [aquí](https://drive.google.com/file/d/1-lii8hst8gdFsUKhOXPQIiYZhKsOQPT2/view?usp=sharing)
+
 ## Inventario de pruebas exploratorias
 El inventario de pruebas exploratorias puede ser encontrado [aqui](https://docs.google.com/spreadsheets/d/1Vpw4Dd8tbhTLygSfkmhm7yIteOhCry0T/edit?usp=sharing&ouid=103744373637186197517&rtpof=true&sd=true)
 
