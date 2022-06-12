@@ -5,6 +5,6 @@
         "admin_url": "http://localhost:2368/ghost/#/dashboard",
         "username": "da.babativa@uniandes.edu.co",
         "ghost_port": "2368",
-        "password":"Trains;Gate20"
+        "password":"password"
     }
 }
