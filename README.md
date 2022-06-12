@@ -20,6 +20,24 @@ Las incidencias reportadas pueden verse en este mismo repositorio
 ## Video final
 El video final donde se explica la estrategia de pruebas, sus resultados, pros y cons puede encontrarase [aqui](https://drive.google.com/file/d/1-lii8hst8gdFsUKhOXPQIiYZhKsOQPT2/view?usp=sharing)
 
+## Restrospectiva
+
+Dejar de hacer:
+- Dejar tareas para el último momento
+- No cumplir con la planeación inicial de la semana
+
+Empezar a hacer:
+- Cumplir la planeación semanal propuesta al inicio de la semana
+- Crear un tablero kanban para llevar el registro de las tareas
+
+Hacer más de:
+- Dar prioridad a las actividades teóricas para poder completar las prácticas entendiendo todo
+- Dar prioridad a las actividades más complejas y largas antes de las más sencillas y cortas
+
+Seguir haciendo:
+- Buscando documentación adicional para poder resolver las tareas de la semana
+- Preguntar las dudas en el canal de slack para poder resolver las tareas de la forma adecuada
+
 ## Guía de instalación
 Abra una consola de comandos donde desee clonar el repositorio y escriba los siguientes comandos
 
