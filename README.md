@@ -11,6 +11,9 @@ Para poder ejecutar estas pruebas de la mejor manera posible se recomienda cumpl
 ## Inventario de pruebas exploratorias
 El inventario de pruebas exploratorias puede ser encontrado [aqui](https://docs.google.com/spreadsheets/d/1Vpw4Dd8tbhTLygSfkmhm7yIteOhCry0T/edit?usp=sharing&ouid=103744373637186197517&rtpof=true&sd=true)
 
+## Video final
+El video final donde se explica la estrategia de pruebas, sus resultados, pros y cons puede encontrarase [aqui](https://drive.google.com/file/d/1-lii8hst8gdFsUKhOXPQIiYZhKsOQPT2/view?usp=sharing)
+
 ## Guía de instalación
 Abra una consola de comandos donde desee clonar el repositorio y escriba los siguientes comandos
 
