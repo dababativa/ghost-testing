@@ -8,9 +8,8 @@ Para poder ejecutar estas pruebas de la mejor manera posible se recomienda cumpl
 - Correr la versión 4.42.0 de Ghost (para esta versión fueron diseñadas las pruebas y es posible que estas no funcionen correctamente en otra versión)
 - Instalar Cypress a nivel global en su máquina
 
-## Indice
-1. [Guía de instalación](#guía-de-instalación)
-   - [Cypress](#cypress)
+## Inventario de pruebas exploratorias
+El inventario de pruebas exploratorias puede ser encontrado [aqui](https://docs.google.com/spreadsheets/d/1Vpw4Dd8tbhTLygSfkmhm7yIteOhCry0T/edit?usp=sharing&ouid=103744373637186197517&rtpof=true&sd=true)
 
 ## Guía de instalación
 Abra una consola de comandos donde desee clonar el repositorio y escriba los siguientes comandos
